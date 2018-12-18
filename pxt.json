@@ -1,0 +1,14 @@
+{
+    "name": "mee",
+    "description": "",
+    "version": "0.0.0",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": false
+}
