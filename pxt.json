@@ -1,14 +1,14 @@
 {
-	"name": "mee-scoreboards",
-	"description": "Scoreboards for Minecraft: Education Edition",
-	"version": "0.2.0",
-	"dependencies": {
-		"core": "*",
-		"builder": "*"
-	},
-	"files": [
-		"README.md",
-		"main.ts"
-	],
-	"public": true
+    "name": "mee-scoreboards",
+    "description": "Scoreboards for Minecraft: Education Edition",
+    "version": "0.2.0",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true
 }
