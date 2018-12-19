@@ -19,9 +19,6 @@ namespace scoreboard {
 			case Display.SIDEBAR:
 				displayCommand = "sidebar";
 				break;
-			default:
-				displayCommand = "sidebar";
-				break;
 		}
 
 		player.execute("scoreboard objectives setdisplay " + displayCommand + " " + name);
